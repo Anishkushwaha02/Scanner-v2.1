@@ -16,8 +16,8 @@ Created with 💻 by **Anish Kushwaha (🗣 ❤️‍🔥)**.
 
 ## 📥 Installation
 ```bash
-git clone https://github.com/Anishkushwaha02/Scanner-v.2.3.git
-cd Scanner-v.2.3
+#git clone #https://github.com/Anishkushwaha02/Sc#anner-v.2.3.git
+#cd Scanner-v.2.3
 
 
 #!/usr/bin/env python3
