@@ -1,7 +1,3 @@
-# Scanner-v2.3
-Network Scanner without logs and GUI
-
-
 # 🔎 Scanner v2.3
 
 An advanced Python-based network security scanner that detects **open ports, services, and banners**.  
@@ -53,9 +49,6 @@ git push -u origin main
 
 
 
-
-
-
 #!/usr/bin/env python3
 # 🔥 Advanced Security & Admin Panel Scanner — Terminal Edition
 # 👨‍💻 Creator: Anish Kushwaha (🗣 ❤️‍🔥)
@@ -63,6 +56,9 @@ git push -u origin main
 #
 # WARNING: Use only on systems you own or have explicit permission to test.
 # Unauthorized scanning is illegal.
+
+
+#code begins:-
 
 import socket, sys, time, argparse, json, hashlib, webbrowser, threading
 from urllib.parse import urlparse
