@@ -20,35 +20,6 @@ git clone https://github.com/Anishkushwaha02/Scanner-v.2.3.git
 cd Scanner-v.2.3
 
 
-
----
-
-# 🖥️ Git Commands (All in One)
-
-```bash
-# 1️⃣ Setup Git
-git config --global user.name "Anishkushwaha02"
-git config --global user.email "Anish_Kushwaha@proton.me"
-
-# 2️⃣ Create project folder
-mkdir Scanner-v.2.3 && cd Scanner-v.2.3
-
-# 3️⃣ Add files
-nano scanner.py    # paste full code above
-nano README.md     # paste README above
-
-# 4️⃣ Initialize Git
-git init
-git add .
-git commit -m "Initial commit - Scanner v2.3 by Anish Kushwaha"
-
-# 5️⃣ Link GitHub repo
-git remote add origin https://github.com/Anishkushwaha02/Scanner-v.2.3.git
-git branch -M main
-git push -u origin main
-
-
-
 #!/usr/bin/env python3
 # 🔥 Advanced Security & Admin Panel Scanner — Terminal Edition
 # 👨‍💻 Creator: Anish Kushwaha (🗣 ❤️‍🔥)
